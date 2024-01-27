@@ -35,6 +35,8 @@ The following section highlights some of the assignments that have been complete
   4. Create a Jupyter notebook:
      - Import the script.
      - Explain and demonstrate the usage of each function with markdown cells.
+    
+  [Link to all the assignments](https://github.com/khizerzakir/PLUS_softwaredev_2023_krypkie)
 
 ## Final Project
 - **Objective:** Showcase the culmination of all assignments and make a group project
