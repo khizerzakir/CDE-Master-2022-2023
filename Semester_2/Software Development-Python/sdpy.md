@@ -41,6 +41,7 @@ The following section highlights some of the assignments that have been complete
 - **Tasks:**
   1. Provide a GitHub link to your final project.
   2. Ensure the repository includes the notebook and the necessary conda environment file.
+  3. Here is the link to the final work: [Final project](https://github.com/khizerzakir/FinalProject_Ctrl-F)
 
 ## Additional Resources
 - [PEP 257 - Docstring Conventions](https://peps.python.org/pep-0257/)
